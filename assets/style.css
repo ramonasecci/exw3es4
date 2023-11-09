@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(7, 80, 7);
+    font-family: sans-serif;
+    width: 60%;
+    margin: auto;
+}
+h1{
+    color: rgb(209, 209, 110);
+}
+
+main{
+      
+    border:2px  solid #000000;
+}
+
+#contenitoreNumeri div {
+    display: inline-block;
+    padding: 0.7em;
+    margin: 0em;
+    width: 1.1em;
+    text-align: center;
+}
+
+#contenitoreNumeri {
+    border:2px  solid #000000;
+    padding: 1.2em;
+    margin: 1em;
+
+}
+
+.selected {
+    background-color: rgb(197, 197, 134);
+}
